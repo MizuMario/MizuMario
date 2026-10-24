@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## MM_Sanの事故紹介
+はい。MMです。さん付けの場合はMM_Sanさんになります。
+ついにGithubのプロフにReadMeを追加してみることとしました。しかしながら、それっぽい素材とか画像(ネタ)がないのであんま意味はないです。
+いつしか、ちゃんとした感じにします...()
 <!--
 **MizuMario/MizuMario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
